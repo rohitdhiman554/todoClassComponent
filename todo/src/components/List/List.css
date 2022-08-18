@@ -1,0 +1,77 @@
+#todo-div {
+  width: 600px;
+  margin-top: 5px;
+}
+
+#first {
+  width: 600px;
+}
+
+.button {
+  display: inline-block;
+  vertical-align: middle;
+}
+#remaining {
+  width: 33%;
+  margin-left: 5px;
+}
+#all-div {
+  width: 32px;
+  margin-left: 10px;
+}
+.all-button {
+  border: none;
+  background-color: white;
+  color: grey;
+}
+#active-div {
+  width: 9%;
+}
+.active-button {
+  color: grey;
+  border: none;
+  background-color: white;
+}
+#completed-div {
+}
+.completed-button {
+  color: grey;
+  border: none;
+  background-color: white;
+}
+#clear-div {
+  width: 26%;
+  margin-left: 64px;
+}
+#clear-button {
+  color: rgb(117, 115, 115);
+  border: none;
+  background-color: white;
+}
+#button-div {
+  width: 600px;
+  color: grey;
+}
+#overall-div {
+  width: 600px;
+  background-color: white;
+  margin-left: 480px;
+  border-radius: 10px;
+  box-shadow: inset;
+  padding-bottom: 10px;
+}
+
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+hr {
+  opacity: 25%;
+}
+
+.clicked {
+  border-color: rgb(244, 170, 170);
+  background-color: white;
+  border-width: 1px;
+}
