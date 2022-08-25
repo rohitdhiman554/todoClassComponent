@@ -1,0 +1,9 @@
+export const SUBMIT_TODO = "SUBMIT";
+export const DELETE_TODO = "DELETE";
+export const EDIT_TODO = "EDIT";
+export const COMPLETE_TASK = "COMPLETE_TASK";
+export const ALL_DONE = "ALL_DONE";
+export const SHOW_TODO = "SHOW";
+export const ACTIVE_TODO = "ACTIVE";
+export const COMPLETE_TODO = "COMPLETE";
+export const CLEAR_TODO = "CLEAR";

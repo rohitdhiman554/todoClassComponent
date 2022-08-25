@@ -67,4 +67,5 @@ class Input extends Component<InputProps, InputState> {
     );
   }
 }
+
 export default Input;
